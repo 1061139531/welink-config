@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-10-30T12:20:00+08:00",
+  "note": "微链入口清单（A6 稳定载体）。入口 PeerID 固定 12D3KooWMPUTUdQGhGpuXtzD7QN9KT7vztzfMGhbnwZems9fsiKF；域名轮换后由入口机 health.ps1 推送本文件更新，客户端与「一键修复入口」按 远端 -> 随包 -> 内置 取序。",
+  "bootstrap_peers": [
+    "/dns4/connectivity-sites-song-offices.trycloudflare.com/tcp/443/wss/p2p/12D3KooWMPUTUdQGhGpuXtzD7QN9KT7vztzfMGhbnwZems9fsiKF"
+  ],
+  "candidates": [
+    {
+      "label": "localtunnel-fixed",
+      "multiaddr": "/dns4/welink-entry-2026.loca.lt/tcp/443/wss/p2p/12D3KooWMPUTUdQGhGpuXtzD7QN9KT7vztzfMGhbnwZems9fsiKF"
+    }
+  ]
+}
