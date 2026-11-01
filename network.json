@@ -4,6 +4,6 @@
     "enable_mdns":  false,
     "enable_udp":  false,
     "bootstrap_peers":  [
-                            "/dns4/manually-expression-reunion-realistic.trycloudflare.com/tcp/443/wss/p2p/12D3KooWJa174Gzm3jeo3CtMewGYKaUgpPKBnSkfgRho9GNqjRHJ"
+                            "/dns4/welink-entry-2026.loca.lt/tcp/443/wss/p2p/12D3KooWJa174Gzm3jeo3CtMewGYKaUgpPKBnSkfgRho9GNqjRHJ"
                         ]
 }
