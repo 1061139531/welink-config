@@ -4,6 +4,6 @@
     "enable_mdns":  false,
     "enable_udp":  false,
     "bootstrap_peers":  [
-                            "/dns4/modification-framework-trailers-heavy.trycloudflare.com/tcp/443/wss/p2p/12D3KooWMPUTUdQGhGpuXtzD7QN9KT7vztzfMGhbnwZems9fsiKF"
+                            "/dns4/titanium-tracking-firefox-motivated.trycloudflare.com/tcp/443/wss/p2p/12D3KooWMPUTUdQGhGpuXtzD7QN9KT7vztzfMGhbnwZems9fsiKF"
                         ]
 }
