@@ -4,6 +4,6 @@
     "enable_mdns":  false,
     "enable_udp":  false,
     "bootstrap_peers":  [
-                            "/dns4/jazz-ferry-crown-reservations.trycloudflare.com/tcp/443/wss/p2p/12D3KooWMXApFxc9SNdxcLiTsiq3256Y1k7BHZkyzTzY6rRuEWdH"
+                            "/dns4/sister-opportunity-personally-subsequent.trycloudflare.com/tcp/443/wss/p2p/12D3KooWMXApFxc9SNdxcLiTsiq3256Y1k7BHZkyzTzY6rRuEWdH"
                         ]
 }
