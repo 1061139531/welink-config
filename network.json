@@ -4,6 +4,6 @@
     "enable_mdns":  false,
     "enable_udp":  false,
     "bootstrap_peers":  [
-                            "/dns4/opinions-permits-extends-persistent.trycloudflare.com/tcp/443/wss/p2p/12D3KooWRwYX2Au8vroeZ2uXpAPaV7ErCEWa64NBqmLPYaRrfrZW"
+                            "/dns4/stories-slim-commonly-insider.trycloudflare.com/tcp/443/wss/p2p/12D3KooWMXApFxc9SNdxcLiTsiq3256Y1k7BHZkyzTzY6rRuEWdH"
                         ]
 }
